@@ -29,7 +29,7 @@ SECRET_KEY = '8)@r##z+6ou^wfo@8v-k2et$3_$p(h5$-xhq$3$z+++7grum*1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://news-one.herokuapp.com/',]
 
 
 # Application definition
