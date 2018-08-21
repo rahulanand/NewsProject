@@ -1,4 +1,4 @@
 # NewsProject
 
 #URL:
-https://news-project.herokuapp.com
+https://news-all.herokuapp.com
